@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "a98fe67c-1f3f-439e-a2ff-c74d3a3b1bf6",
+		"name": "Laboratorio2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "54358573",
+		"_collection_link": "https://jimenez-climaco-4761741.postman.co/workspace/Jaime-Jimenez's-Workspace~64fd128f-0af4-4524-8eae-44aaa996ee14/collection/54358573-a98fe67c-1f3f-439e-a2ff-c74d3a3b1bf6?action=share&source=collection_link&creator=54358573"
+	},
+	"item": [
+		{
+			"name": "CreatePirate",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PirateList",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "UpdatePirate",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PirateByID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DeletePirate",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
